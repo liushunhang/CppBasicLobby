@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\CppBasicLobby.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{9EACD72B-7828-4117-B48D-5A5D1EC596AD}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\CppBasicLobby.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\CppBasicLobbyEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{C3146FE0-8119-4C94-A0A1-102665749E2D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\CppBasicLobby">
+			<UniqueIdentifier>{357C90D2-88D4-41C6-9AB3-ABC70B5E5FE0}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\CppBasicLobby\CppBasicLobby.Build.cs">
+			<Filter>Source\CppBasicLobby</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\CppBasicLobby\CppBasicLobby.cpp">
+			<Filter>Source\CppBasicLobby</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CppBasicLobby\CppBasicLobby.h">
+			<Filter>Source\CppBasicLobby</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CppBasicLobby\CppBasicLobbyCharacter.cpp">
+			<Filter>Source\CppBasicLobby</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CppBasicLobby\CppBasicLobbyCharacter.h">
+			<Filter>Source\CppBasicLobby</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CppBasicLobby\CppBasicLobbyGameMode.cpp">
+			<Filter>Source\CppBasicLobby</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CppBasicLobby\CppBasicLobbyGameMode.h">
+			<Filter>Source\CppBasicLobby</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CppBasicLobby\UNWGameInstance.cpp">
+			<Filter>Source\CppBasicLobby</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CppBasicLobby\UNWGameInstance.h">
+			<Filter>Source\CppBasicLobby</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

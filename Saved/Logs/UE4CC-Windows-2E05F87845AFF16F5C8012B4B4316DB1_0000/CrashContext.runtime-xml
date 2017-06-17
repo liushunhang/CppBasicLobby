@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<CrashGUID>UE4CC-Windows-2E05F87845AFF16F5C8012B4B4316DB1_0000</CrashGUID>
+<ProcessId>8436</ProcessId>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>true</IsSourceDistribution>
+<IsEnsure>false</IsEnsure>
+<IsAssert>true</IsAssert>
+<CrashType>Assert</CrashType>
+<SecondsSinceStart>19892</SecondsSinceStart>
+<GameName>UE4-CppBasicLobby</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<EngineModeEx>Dirty</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.15.0-0+++UE4+Release-4.15</EngineVersion>
+<CommandLine>&quot;D:/UnrealProjects/CppBasicLobby/CppBasicLobby.uproject&quot;</CommandLine>
+<LanguageLCID>2052</LanguageLCID>
+<AppDefaultLocale>zh_CN</AppDefaultLocale>
+<BuildVersion>++UE4+Release-4.15-CL-0</BuildVersion>
+<IsUE4Release>false</IsUE4Release>
+<UserName></UserName>
+<BaseDir>D:/UE4/UnrealEngine-release/Engine/Binaries/Win64/</BaseDir>
+<RootDir>D:/UE4/UnrealEngine-release/</RootDir>
+<MachineId>CB31FEEC4B4F03AE9C7669A166151F4B</MachineId>
+<LoginId>cb31feec4b4f03ae9c7669a166151f4b</LoginId>
+<EpicAccountId>996a1d11b1ee42e1bb3c7b13a5f8d31b</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint>Layout=&quot;LevelEditorToolBar&quot; Label=&quot;Toolbar&quot; Content=SHorizontalBox</UserActivityHint>
+<ErrorMessage>Assertion failed: IsValid() [File:d:\ue4\unrealengine-release\engine\source\runtime\core\public\Templates/SharedPointer.h] [Line: 837] &nl;&nl;</ErrorMessage>
+<CrashDumpMode>0</CrashDumpMode>
+<CrashReporterMessage></CrashReporterMessage>
+<Misc.NumberOfCores>2</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>Intel(R) HD Graphics 4600</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>17087881216</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>7982002176</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>140733126967296</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>2441289728</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>2536226816</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>2823217152</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>3021639680</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+</FGenericCrashContext>
